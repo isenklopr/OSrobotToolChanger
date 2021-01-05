@@ -1,0 +1,65 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "d:/KukaToolChangerOS/include",
+                "d:/KukaToolChangerOS/src",
+                "d:/KukaToolChangerOS/.pio/libdeps/uno/Servo/src",
+                "C:/Users/Janne/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/Janne/.platformio/packages/framework-arduino-avr/variants/standard",
+                "C:/Users/Janne/.platformio/lib/Adafruit BMP280 Library",
+                "C:/Users/Janne/.platformio/lib/Adafruit Unified Sensor_ID31",
+                "C:/Users/Janne/.platformio/lib/PubSubClient_ID89/src",
+                "C:/Users/Janne/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/Janne/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/Janne/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/Janne/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/Janne/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/Janne/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "d:/KukaToolChangerOS/include",
+                    "d:/KukaToolChangerOS/src",
+                    "d:/KukaToolChangerOS/.pio/libdeps/uno/Servo/src",
+                    "C:/Users/Janne/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/Janne/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "C:/Users/Janne/.platformio/lib/Adafruit BMP280 Library",
+                    "C:/Users/Janne/.platformio/lib/Adafruit Unified Sensor_ID31",
+                    "C:/Users/Janne/.platformio/lib/PubSubClient_ID89/src",
+                    "C:/Users/Janne/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/Janne/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/Janne/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/Janne/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/Janne/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/Janne/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50003",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/Janne/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
